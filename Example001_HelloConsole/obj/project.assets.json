@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GeekBrains\\Examples_Csharp\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectUniqueName": "C:\\GeekBrains\\002.CS_Training_Workspace\\Examples\\Lections_Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "projectName": "Example001_HelloConsole",
-      "projectPath": "C:\\GeekBrains\\Examples_Csharp\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectPath": "C:\\GeekBrains\\002.CS_Training_Workspace\\Examples\\Lections_Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "packagesPath": "C:\\Users\\ualek\\.nuget\\packages\\",
-      "outputPath": "C:\\GeekBrains\\Examples_Csharp\\Example001_HelloConsole\\obj\\",
+      "outputPath": "C:\\GeekBrains\\002.CS_Training_Workspace\\Examples\\Lections_Examples\\Example001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ualek\\AppData\\Roaming\\NuGet\\NuGet.Config"
