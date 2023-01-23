@@ -23,4 +23,5 @@ Console.WriteLine(numberA); // WriteLine — вывод с переходом н
 int numberB = new Random().Next(1, 10); // 1 2 3 … 9 случайное целое число из диапазона от 1 до 10
 Console.WriteLine(numberB);
 int result = numberA + numberB;
+
 Console.Write(result);// Write — это вывод без перехода на новую строку. 
